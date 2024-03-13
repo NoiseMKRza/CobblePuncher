@@ -1,0 +1,6 @@
+name: CobblePuncher
+description: Allows Cobblestone to drop when broken by hand
+author: TheNoiseZA
+version: 1.0
+api-version: 1.20
+main: za.co.rsacraft.cobblepuncher.CobblePuncher
